@@ -1,1 +1,1 @@
-# Finish "Configuration Guideline" inside "index.js" to initialize this project. :)
+# MailChimp API integration test
